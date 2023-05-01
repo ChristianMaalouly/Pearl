@@ -12,11 +12,11 @@ For heuristic:
 heuristicSolve(readInputFile("../data/instanceTest.txt"))
 Uncomment the displayTmp function at the very end of heuristicSolve function to have the solution displayed
 
-To generate a data set
+To generate a data set:
 generateDataSet()
 
-To solve all the grids in the folder /data
+To solve all the grids in the folder /data:
 solveDataSet()
 
-To create a latex file for the results
+To create a latex file for the results:
 resultsArray("filename.tex")
