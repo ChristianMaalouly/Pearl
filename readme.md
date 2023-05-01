@@ -1,6 +1,6 @@
 Commands for Pearl
 
-In a julia terminal  
+In a julia terminal:  
 cd("directory of src folder")  
 include("resolution.jl")
 
