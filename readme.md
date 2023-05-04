@@ -20,3 +20,5 @@ solveDataSet()
 
 To create a latex file for the results:  
 resultsArray("filename.tex")
+
+!!! The heuristic code is performant but it was not cleaned up, it could be simplified a lot by making all the repeated parts into functions and possibly simplifying some conditions !!!
